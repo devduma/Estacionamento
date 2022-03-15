@@ -10,11 +10,16 @@ Uso do padrão Strategy para calcular a tarifa aplicando diferentes tipos de cob
 
 [Twitter](www.twitter.com/portadosfundos)
 ## Módulos
-Introdução
-Git e GitHub
-Aplicação
-Exemplo
-GitHub Profissional
-Conclusão
+* Introdução
+* Git e GitHub
+* Aplicação
+* Exemplo
+* GitHub Profissional
+* Conclusão
+
+## Procedimento
+1. Inscrição no site
+2. Pagar boleto
+3. Confirmar presença no evento
 
 **Dumont** _de Carvalho **Neves**_
