@@ -49,5 +49,11 @@ funtion login(usuario){
 ```
 
 
+Propriedade | Descrição
+----------- | ---------
+name | Informar nome do usuário
+size | Definir o tamanho do campo
+background | Cor de fundo da área
+
 
 **Dumont** _de Carvalho **Neves**_
