@@ -19,7 +19,30 @@ Uso do padrão Strategy para calcular a tarifa aplicando diferentes tipos de cob
 
 ## Procedimento
 1. Inscrição no site
+    1. www.site.com.br
+    2. Opção Inscrição
 2. Pagar boleto
 3. Confirmar presença no evento
+
+> Este é um trecho para ser destacado
+>
+> Patrocinado por Estapar
+
+**Comando para executar o projeto**
+
+```js
+funtion login(usuario){
+    return 'Bem vindo ' + usuario
+}
+```
+**Uso do componente HTML**
+```html
+<h1>Título do projeto
+    <span>Estacionamento
+    </span>
+</h1>
+```
+
+
 
 **Dumont** _de Carvalho **Neves**_
