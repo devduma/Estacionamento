@@ -5,6 +5,13 @@ Aplicação de cobrança por tempo de permanência em um estacionamento.
 
 Uso do padrão Strategy para calcular a tarifa aplicando diferentes tipos de cobrança (hora, diária, valor inicial+hora) e conforme o tipo de veículo (moto, carro)
 
+[Rede Social](#rede-social)
+
+[Task List](#tasklist-updates-da-versão-24)
+
+[Módulos](#módulos)
+
+[Procedimento](#Procedimento)
 ## Rede Social
 [Instagram](https://instagram.com/dumont_neves)
 
