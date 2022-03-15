@@ -9,6 +9,11 @@ Uso do padrão Strategy para calcular a tarifa aplicando diferentes tipos de cob
 [Instagram](https://instagram.com/dumont_neves)
 
 [Twitter](www.twitter.com/portadosfundos)
+
+### Tasklist **(updates da versão 2.4)**
+- [x] Site responsivo
+- [ ] Login com Google
+- [ ] Link com rede social
 ## Módulos
 * Introdução
 * Git e GitHub
