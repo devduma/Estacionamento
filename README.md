@@ -8,7 +8,7 @@ Uso do padrão Strategy para calcular a tarifa aplicando diferentes tipos de cob
 ## Rede Social
 [Instagram](https://instagram.com/dumont_neves)
 
-[Twitter](www.twitter.com/temperodrag)
+[Twitter](www.twitter.com/portadosfundos)
 ## Módulos
 Introdução
 Git e GitHub
